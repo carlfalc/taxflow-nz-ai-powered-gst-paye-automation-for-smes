@@ -1,0 +1,16 @@
+{
+  "name": "taxflow-nz-ai-powered-gst-paye-automation-for-smes",
+  "version": "0.1.0",
+  "description": "TaxFlow NZ is an AI-powered tax automation platform specifically designed for New Zealand SMEs, automatically categorising transactions, calculating GST obligations, and generating IRD-compliant retur",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "keywords": [
+    "ai",
+    "saas",
+    "the-firm"
+  ],
+  "author": "The Firm — AI Venture Studio",
+  "license": "MIT"
+}
