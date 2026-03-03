@@ -1,0 +1,2 @@
+# taxflow-nz-ai-powered-gst-paye-automation-for-smes
+TaxFlow NZ is an AI-powered tax automation platform specifically designed for New Zealand SMEs, automatically categorising transactions, calculating GST obligations, and generating IRD-compliant returns. With Xero integration and real-time compliance monitoring, it eliminates the monthly tax admin burden that costs NZ businesses 8-12 hours per mont
